@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487895644141",
+    "project_id": "finaldeneme-2db4d",
+    "storage_bucket": "finaldeneme-2db4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487895644141:android:530baf8581bb43af2659e4",
+        "android_client_info": {
+          "package_name": "com.zeynepkargi.finaldeneme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpR_d2ur8o15omHteyn3JN2Qbg3sWaNX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
